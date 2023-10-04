@@ -1,4 +1,3 @@
-
 # RichardBock
 - 👋Hi, I'm @RichardBock
 - 📚I'm a student at Walpole High School
