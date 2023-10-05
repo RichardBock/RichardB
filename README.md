@@ -11,4 +11,4 @@
 > In this project I used shapes, variables, and randomness to express my creativity and created a Random Robot Face.
 
  [Caption Scene](https://studio.code.org/projects/gamelab/UCoNqMH44s7EvHvrgHZhANAUE9TRbf-QycO1poYFNfA)
- > In this project me and my partner used varibles and shapes to make a scene from the movie King Kong
+ >  A creative project of this unit. Using the problem-solving process as a model.
