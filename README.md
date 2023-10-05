@@ -1,3 +1,4 @@
+![octocat](https://github.com/RichardBock/RichardB/assets/146837420/d7fa411d-bf76-463f-81e6-040bb4fd80c9)
 # RichardBock
 - 👋Hi, I'm @RichardBock
 - 📚I'm a student at Walpole High School
