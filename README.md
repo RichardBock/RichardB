@@ -4,7 +4,7 @@
 - 📚I'm a student at Walpole High School
 - 🔧I'm current in the steam academy
 - 👟I also play soccer for the Freshmen boys team
-- How to reach me at bockr27@wpsma.org
+- How to reach me bockr27@wpsma.org
 
 ### Code.org GameLab
 [Robot Face](https://RichardBock.github.io/RobotFace/)
