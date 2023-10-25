@@ -14,4 +14,4 @@
  >  A creative project of this unit. Using the problem-solving process as a model.
 
 [Interactive Card](https://studio.code.org/projects/gamelab/SEYCe_W5Sz4vmzzjPWfOQEHKqiTSrVTnQcVI22KzfOI)
- >  In this project my partner and I used sprites, conditionals, and user inputs to challenge our coding that we learned from other lessons
+ >  In this project my partner and I used sprites with different properties, and we used conditionals and user inputs to affect the code
