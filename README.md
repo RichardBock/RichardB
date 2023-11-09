@@ -15,3 +15,6 @@
 
 [Interactive Card](https://studio.code.org/projects/gamelab/SEYCe_W5Sz4vmzzjPWfOQEHKqiTSrVTnQcVI22KzfOI)
  >  In this project my partner and I used sprites with different properties, and we used conditionals and user inputs to affect the code
+
+[Side Scroller Game](https://studio.code.org/projects/gamelab/f2-OhcOxGVpeTMhwKo5dxX3lR_ubnPxnGgpyrmAmx8Q)
+> In this projecy my partner and I used sprites with different properties, and we used conditionals to control the score and player inputs to affect the code
