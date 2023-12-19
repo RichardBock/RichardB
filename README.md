@@ -28,6 +28,11 @@
 [Final Game Project](https://studio.code.org/projects/gamelab/Q8MuFd2_BbXDlyLkudo1xtxFaeUgHdzQztiOp2V-KVw)
 > In this project I used different types of functions to control the background, player movements, and much more to create a unique game that isn't too hard or too easy
 
-[HelloItsMe](https://ai2.appinventor.mit.edu/#5945121235140608)
+[HelloItsMe]([https://ai2.appinventor.mit.edu/#5945121235140608](https://gallery.appinventor.mit.edu/?galleryid=b7e648de-55ac-40b4-b78a-286493776a5f))
 > In this app I used buttons to activate players in order to make sounds once you press the image
 
+[PianoApp](https://gallery.appinventor.mit.edu/?galleryid=4ac7f608-80d6-420f-9b0d-9b740ac4c5e3)
+>In this app I used different colored buttons to activate players to make the sounds of a piano
+
+[MusicMakerApp](https://gallery.appinventor.mit.edu/?galleryid=8e5e411b-0941-48bf-a69d-2e16c47a714b)
+> In this app I found different sounds of instruments and applied them to medias so when you click on the image of the instrument it plays their sound.  There is also a recording button so when they sounds play it records it for later.
