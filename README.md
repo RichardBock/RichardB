@@ -27,3 +27,7 @@
 
 [Final Game Project](https://studio.code.org/projects/gamelab/Q8MuFd2_BbXDlyLkudo1xtxFaeUgHdzQztiOp2V-KVw)
 > In this project I used different types of functions to control the background, player movements, and much more to create a unique game that isn't too hard or too easy
+
+[HelloItsMe](https://ai2.appinventor.mit.edu/#5945121235140608)
+> In this app I used buttons to activate players in order to make sounds once you press the image
+
