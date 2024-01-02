@@ -40,4 +40,4 @@
 > In this app I found different sounds of instruments and applied them to medias so when you click on the image of the instrument it plays their sound.  There is also a recording button so when they sounds play it records it for later.
 
 [FindTheGoldApp](https://gallery.appinventor.mit.edu/?galleryid=b3f42adc-6c21-4f92-a6b3-b9f6a9cc1216)
-> In this app we cooperated with a partner to create a maze game using an accelerometer to move the ball and a notifier to detech when you have finished the game
+> In this app we cooperated with a partner to create a maze game using an accelerometer to move the ball and a notifier to detech when the ball has touch the goal.
