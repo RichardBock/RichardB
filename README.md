@@ -43,4 +43,4 @@
 > In this app we cooperated with a partner to create a maze game using an accelerometer to move the ball and a notifier to detech when the ball has touch the goal.
 
 [DogChase](https://gallery.appinventor.mit.edu/?galleryid=ecbdec68-3281-44f4-83bc-4efdc9ba95e4)
-> In this app we worked as partners to create a game so when you flick the red dot it will move and try to hit the targets so you gain score but be aware to dodge the green dot.
+> In this app we worked as partners used conditionals, tinydb's, and image sprites to create a fully working game so when you flick the red dot it will move hit the goal so you gain score but be aware to dodge the green dot.
