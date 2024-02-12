@@ -47,4 +47,4 @@
 
 ### CMU Academy
 [CreativeTask](https://academy.cs.cmu.edu/sharing/greyRabbit8086)
->
+> In this project, I used python to code a soccer stadium using different kinds of shapes, colors, gradients, and opacities
