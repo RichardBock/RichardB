@@ -46,5 +46,8 @@
 > In this app we worked as partners used conditionals, tinydb's, and image sprites to create a fully working game so when you flick the red dot it will move hit the goal so you gain score but be aware to dodge the green dot.
 
 ### CMU Academy
-[CreativeTask](https://academy.cs.cmu.edu/sharing/greyRabbit8086)
+[CreativeTask1](https://academy.cs.cmu.edu/sharing/greyRabbit8086)
 > In this project, I used python to code a soccer stadium using different kinds of shapes, colors, gradients, and opacities
+
+[CreativeTask2](https://academy.cs.cmu.edu/sharing/greyKitten5835)
+> In this project, We worked in partners to create an animated scene by using mouse events and varibles
