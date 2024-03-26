@@ -50,4 +50,7 @@
 > In this project, I used python to code a soccer stadium using different kinds of shapes, colors, gradients, and opacities
 
 [CreativeTask2](https://academy.cs.cmu.edu/sharing/greyKitten5835)
-> In this project, We worked in partners to create an animated scene by using mouse events and varibles
+> In this project, We worked in partners to create an animated scene by using mouse clicks and varibles
+
+[CreativeTask3](https://academy.cs.cmu.edu/sharing/burlyWoodBird2773)
+> In this project, We worked in partners to create an animated scene by using mouse movements, varibles, and grouping
