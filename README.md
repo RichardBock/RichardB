@@ -54,3 +54,6 @@
 
 [CreativeTask3](https://academy.cs.cmu.edu/sharing/burlyWoodBird2773)
 > In this project, We worked in partners to create an animated scene by using mouse movements, varibles, and grouping
+
+[CreativeTask3](https://academy.cs.cmu.edu/sharing/ivoryCat9388)
+> In this project, We worked as partners using python to code an interactive pixel art platform where you click on the colored buttons and then oj the pixels to create drawings
