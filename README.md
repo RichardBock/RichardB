@@ -59,4 +59,7 @@
 > In this project, We worked as partners using python to code an interactive pixel art platform where you click on the colored buttons and then oj the pixels to create drawings
 
 [CreativeTask5](https://academy.cs.cmu.edu/sharing/azureFly3881)
-> In this projecy, we used an imitation of flappy bird, and used grouping, hold keys, nested functions, and complex functions
+> In this project, we used an imitation of flappy bird, and used grouping, hold keys, nested functions, and complex functions
+
+[CreativeTask6](https://academy.cs.cmu.edu/sharing/deepPinkHorse3864)
+> In this project, we created a Space Invaders like game that used grouping, hold keys, nested functions, complex functions, and hit statements
